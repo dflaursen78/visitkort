@@ -1,0 +1,96 @@
+body {
+    /* Alle HTML Dokumenter */
+    background-color: whitesmoke;
+}
+
+.HeaderColor {
+    /* Alle HTML Dokumenter */
+    background-color: rgb(255, 153, 0);
+}
+
+.HeaderColor a {
+    /* Alle HTML Dokumenter */
+    color: black !important;
+}
+
+#para0 {
+    /* Personlig */
+    text-align: center;
+}
+
+#para1 {
+    /* Personlig */
+    text-align: justify;
+    width: 400px;
+    margin: auto;
+}
+
+#para2 {
+    /* Personlig */
+    text-align: justify;
+    width: 400px;
+    margin: auto;
+}
+
+.knapper {
+    /* CV */
+    text-align: center;
+}
+
+.Overskrift {
+    /* CV */
+    text-align: center;
+}
+
+.CVtekst {
+    /* CV */
+    text-align: justify;
+    width: 500px;
+    margin: auto;
+}
+
+.bord {
+    /* CV */
+    margin: 0 auto;
+    margin-bottom: 10px;
+    width: 75%;
+    border: 1px solid black;
+}
+
+.bord table {
+    /* CV */
+    border: 1px solid black !important;
+    /* important = førsteprioritet*/
+}
+
+.forside {
+    /* forside*/
+    text-align: center;
+}
+
+#DFL {
+    /* forside */
+    border-radius: 25px;
+    width: 200px;
+}
+
+.info {
+    /* kontaktinfo */
+    text-align: center;
+}
+
+.Kontakt {
+    /* kontaktinfo */
+    font-size: 20px;
+    line-height: 1.6;
+}
+
+.Fed {
+    /* kontaktinfo */
+    font-weight: bold;
+}
+
+/*.glyph {
+    font-size: 20px;
+}
+*/
